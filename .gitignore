@@ -1,0 +1,20 @@
+# n8n data
+*.env
+.env.*
+n8n_ecombot360_data/
+
+# Credenciales y secretos
+*credentials*
+*secrets*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+kN9yDB94KBMIbCVr.json 
+jlPWTl7XDAwOXBoa.json
+jH4lZTqI8D564cBw.json
+lgi8s7N6xqQYHsyt.json
+
+# Editor
+.vscode/
+.idea/
