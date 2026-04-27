@@ -13,7 +13,6 @@ Proyecto Final Integrador — Diplomado IA UFG 2026
 | 5.68jO7jYkjVXyo3T6.json  | WF4 NPS Post-venta | Trigger orden → Wait → NPS → acciones por segmento |
 | 6.41qJv25BWf5zJUVY.json  | WF5 Sentiment Dashboard | Cron diario → Sentiment Analysis → alertas Slack |
 | 7.ZVhIv6x12Fm6Bb6M.json  | Cargar Knowledge Base |
-| 8.EjK7roNFCF6M82UG.json  | Tool - Crear Pedido   |
 
 ## Stack técnico
 - n8n 2.13.4 (self-hosted Docker, puerto 5679)
